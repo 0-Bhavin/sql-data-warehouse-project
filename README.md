@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse Project
+# SQL Data Warehouse Project
 
 Welcome to the **SQL Data Warehouse and Analytics Project**! This repository showcases an end-to-end data warehousing and business intelligence solution—from raw data ingestion to analytics-ready data modeling—designed using modern data engineering best practices.
 
